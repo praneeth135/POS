@@ -1,2 +1,6 @@
-# POS
-This project is based on react-redux that allows the user to add products &amp; customers. User can Generate a bill for a particular customer
+# My Bill
+The best Billing & Inventory management application made simple and easy for domestic purposes which record all business transactions such as sales, products & customers
+
+## Packages 
+
+Axios, react-redux, redux-thunk, react-router-dom, sweetalert, material-ui, validator
